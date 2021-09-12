@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there, it's me Aji 👋
+🌱 I’m currently learning Laravel and React JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansengarie&show_icons=true&theme=tokyonight)
 

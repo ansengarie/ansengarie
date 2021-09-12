@@ -1,10 +1,15 @@
 ### Hello there, it's me Aji 👋
 🌱 I’m currently learning Laravel and React JS
 
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/ansengarie/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansengarie&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansengarie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

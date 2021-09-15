@@ -4,6 +4,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/ansengarie/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://www.instagram.com/ajins_/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansengarie&show_icons=true&theme=tokyonight)
 

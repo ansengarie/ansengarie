@@ -1,5 +1,5 @@
 ## Hello there, it's me Aji 👋
-🌱 I’m currently learning Laravel and React JS
+🌱 I’m currently learning Laravel
 
 <h3 align="center">Connect with me</h3>
 <p align="center">

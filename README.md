@@ -1,6 +1,6 @@
 ## Hello there, it's me Aji 👋
 
-🌱 I’m currently learning full stack web development
+🌱 I’m currently learning full stack web development  
 📫 How to reach me: ansengarie@gmail.com  
 🤞 Don't forget to touch grass
 

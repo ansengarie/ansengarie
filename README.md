@@ -1,10 +1,8 @@
 ## Hello there, it's me Aji 👋
-I have an interest in web and mobile development.
 
-🏫 Student at Universitas Pasundan  
-🌱 I’m currently learning mobile dev  
+🌱 I’m currently learning full stack web development
 📫 How to reach me: ansengarie@gmail.com  
-🤫 Don't forget to touch some grass
+🤞 Don't forget to touch grass
 
   
 ### Statistics
@@ -18,10 +16,11 @@ I have an interest in web and mobile development.
    
 ### Reach me on
   <a href= "https://www.linkedin.com/in/ansengarie/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/> Linkedin</a>  
+<!--
   <a href= "https://ansengarie.github.io/"><img src="https://img.icons8.com/dusk/48/000000/web.png"/> ansengarie.github.io</a>  
   <a href= "mailto:ansengarie@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/email.png"/> ansengarie@gmail.com</a>  
   <a href= "https://www.instagram.com/ajins_/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/> Instagram</a>
-
+-->
 
 <!--
 **ansengarie/ansengarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
